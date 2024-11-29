@@ -8,11 +8,13 @@ Mis soluciones a los desafíos de **[Codember](https://codember.dev)**, el conju
 > **Retos Completados:** 5 de 5 ✅
 > **Secretos Desvelados:** 13 de 13 ✅
 
+<img src="codember_results.png">
+
 ## Changelog
 
-- **18 Nov 2024** - subidas las soluciones a los retos 1 y 2
-- **21 Nov 2024** - subida la solución al reto 3
 - **29 Nov 2024** - subidas las soluciones a los retos 4 y 5, e info sobre los secretos 🤫
+- **21 Nov 2024** - subida la solución al reto 3
+- **18 Nov 2024** - subidas las soluciones a los retos 1 y 2
 
 ## Soluciones
 
